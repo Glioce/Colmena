@@ -1,2 +1,2 @@
 # Colmena
-Modulos hexagonales interconectables
+Módulos hexagonales interconectables
